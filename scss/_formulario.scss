@@ -1,0 +1,20 @@
+form{
+    color: $mainColor; font-size: $textP; 
+    width: 200px;
+}
+
+form input{
+    font-size: 30px; background: linear-gradient(to top, $mainColor , white);
+}
+
+textarea{
+    background: linear-gradient(to top, $mainColor , white);
+}
+
+.a-button{
+    font-size: 30px; background: linear-gradient(to top, $mainColor , white);
+    text-decoration: none;
+    display: flex;
+    color: black;
+    border-radius: 3px;
+}
